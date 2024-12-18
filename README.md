@@ -1,19 +1,13 @@
-Maintaining a healthy lifestyle is challenging due to issues like lack of motivation, isolation, and difficulty tracking progress. FitGO, a fitness social app, tackles these problems through technology, community, and gamification.![photo_4_2024-12-18_17-59-01](https://github.com/user-attachments/assets/b42bb9b7-8a65-4964-9b7d-55ffe2b9e89c)
+Maintaining a healthy lifestyle is challenging due to issues like lack of motivation, isolation, and difficulty tracking progress. FitGO, a fitness social app, tackles these problems through technology, community, and gamification.
 
-
-![photo_1_2024-12-18_17-59-01](https://github.com/user-attachments/assets/73602d54-0b85-4eff-91cd-b059b4341aa8)
-![photo_2_2024-12-18_17-59-01](https://github.com/user-attachments/assets/1058444c-3c10-41f0-8cd0-58bcf68227a4)
-![photo_3_2024-12-18_17-59-01](https://github.com/user-attachments/assets/b7c1709b-e38c-4921-aee4-e91d614996c4)
-![photo_5_2024-12-18_17-59-01](https://github.com/user-attachments/assets/a128de18-6ab6-4a59-98a3-94ab5dc3acf5)
-![photo_6_2024-12-18_17-59-01](https://github.com/user-attachments/assets/c72a2825-0c3a-4f0d-93b9-85a68e16f661)
-![photo_7_2024-12-18_17-59-01](https://github.com/user-attachments/assets/6f50a424-ff6a-4919-8cd4-082f77f6506f)
-![photo_8_2024-12-18_17-59-01](https://github.com/user-attachments/assets/3e709b8f-75aa-4a3a-accc-5b19cd7c9c74)
-![photo_9_2024-12-18_17-59-01](https://github.com/user-attachments/assets/a771fd13-add5-46f5-818c-3a199835fd2b)
-![photo_10_2024-12-18_17-59-01](https://github.com/user-attachments/assets/72e86f37-e749-4d86-be23-cc8fb454125c)
-![photo_11_2024-12-18_17-59-01](https://github.com/user-attachments/assets/e4fc6e27-54ba-4c97-9899-0de050035d42)
-
-
-
-
-
-
+![111](https://github.com/user-attachments/assets/51d91041-bce1-465c-a046-c481cd5cb0ce)
+![2222](https://github.com/user-attachments/assets/fc854af1-6b3f-46b9-b07d-2ed007426306)
+![3333](https://github.com/user-attachments/assets/77897c32-491b-4685-b210-6d74fca11519)
+![4444](https://github.com/user-attachments/assets/5c23eb32-7017-4197-ab77-4178426fd7f7)
+![5555](https://github.com/user-attachments/assets/a2635071-e2b2-43a0-bc31-ec95566e23a5)
+![6666](https://github.com/user-attachments/assets/0cac9532-4014-491f-950c-8278d72eeaa7)
+![777](https://github.com/user-attachments/assets/374ca4c3-0225-4b97-93f2-ed0889624a58)
+![888](https://github.com/user-attachments/assets/831fcb93-f305-4fc9-aaaf-0892a09ea5e0)
+![999](https://github.com/user-attachments/assets/61543831-b841-43c5-a0b4-b04509d3da09)
+![1000](https://github.com/user-attachments/assets/b1b7d60c-47ff-4eb1-9427-1aa13c280a73)
+![101](https://github.com/user-attachments/assets/a0709e04-3b74-4315-900c-ab5df2185832)
